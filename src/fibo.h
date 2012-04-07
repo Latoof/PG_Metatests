@@ -9,7 +9,7 @@
 		fib0 = 0
 		fib1 = 1
 		fibn = fibn−1 + fibn−2 , n ≥ 2
-		
+
 	*/
 
 	template <int n>
@@ -20,7 +20,8 @@
 
 
 
-	/** Question 1 : Implementer un metaprogramme efficace simulant le code optimise suivant :
+
+	/** Question 2 : Implementer un metaprogramme efficace simulant le code optimise suivant :
 
 		int fib(int n) {
 			int x = 0;
