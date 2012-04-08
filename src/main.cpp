@@ -11,7 +11,8 @@ int main( int argc, char** argv ) {
 	std::cout << Fibo<10>::val << std::endl; //
 	std::cout << FiboN<10>::val << std::endl; //
 
-	std::cout << IS_PRIME(125) << std::endl;
+
+	std::cout << IS_PRIME(131) << std::endl;
 
 
 	return 0;
